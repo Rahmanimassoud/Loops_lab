@@ -53,3 +53,27 @@
 // for(let i = 1; i<=700; i+= 2){
 //   console.log(i)
 // }
+
+// for(let i = 1900; i<1949; i++){
+//   console.log("Happy new year " + " The year is now " + i);
+//   if(i === 1900){
+//     console.log("Happy new year " + " The year is now " + i + " and Zeppelin was invented in this year")
+    
+//   } else if(i === 1902){
+//     console.log("Happy new year " + " The year is now " + i + " and Teddy Bear was invented in this year")
+//   } else if(i === 1910){
+//     console.log("Happy new year " + " The year is now " + i + " and Talking Motion picture was invented in this year")
+//   } else if(i === 1913){
+//     console.log("Happy new year " + " The year is now " + i + " and Bra was invented in this year")
+//   } else if(i === 1918){
+//     console.log("Happy new year " + " The year is now " + i + " and Fortun Cookie was invented in this year")
+//   } else if(i === 1923){
+//     console.log("Happy new year " + " The year is now " + i + " and Traffic Signal was invented in this year")
+//   } else if(i === 1935){
+//     console.log("Happy new year " + " The year is now " + i + " and Radar was invented in this year")
+//   } else if(i === 1938){
+//     console.log("Happy new year " + " The year is now " + i + " and Ballpoint pen was invented in this year")
+//   } else if(i === 1943){
+//     console.log("Happy new year " + " The year is now " + i + " and Slinky was invented in this year")
+//   }
+// }
