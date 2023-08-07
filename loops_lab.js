@@ -11,12 +11,12 @@
 
 
 // Make variable laps = 0; write a for loop that logs (“that’s another lap!”) and adds 1 to the laps variable. AFTER the loop, log laps.
-// let laps = 0;
-// for(let i = 0; i < 10; i++){
-//   laps += i;
-//   console.log("Thats is another lap!" + laps)
-// }
-// console.log(laps)
+let laps = 0;
+for(let i = 0; i < 10; i++){
+  laps += 1;
+  console.log("Thats is another lap!" + laps)
+}
+console.log(laps)
 // THIS IS NOT CORRECT MIND STOPED WORKING;
 
 
